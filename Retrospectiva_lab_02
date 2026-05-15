@@ -1,0 +1,26 @@
+Retrospectiva del Laboratorio
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+
+Daniel: y Esteban 4 horas en total.
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+
+Terminado. Todo el código fue probado y los ejercicios, incluyendo el algoritmo Minimax, cumplen con lo que pide la guía.
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+
+Implementar correctamente el algoritmo Minimax para el juego NIM y lograr encadenar funciones de orden superior (map, filter, sorted) de forma clara y funcional en una sola línea.
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+
+El error al intentar usar la función reduce, ya que Python decía que no estaba definida. Lo resolví investigando e importando la función desde el módulo estándar con from functools import reduce.
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+
+Al realizar la práctica, tuve una buena gestión del tiempo y organización para ir probando ejercicio por ejercicio. Me comprometo a comentar el código a medida que lo escribo para que sea más fácil de entender.
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+
+La referencia más útil fue la documentación oficial de Python para entender el módulo de funciones de orden superior.
+
+Python Software Foundation. (2026). functools — Higher-order functions and operations on callable objects.https://docs.python.org/3/library/functools.html
